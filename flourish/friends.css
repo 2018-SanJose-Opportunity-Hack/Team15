@@ -40,9 +40,11 @@ footer {
     font-size: 16px;
 }
 li {
+    display: inline;
   margin-bottom: 10px;
 }
 
 li:last-child {
+
  margin-bottom: 0px;
 }
